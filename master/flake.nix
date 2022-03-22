@@ -9,7 +9,7 @@
   
   inputs.src-loadenv-master.flake = false;
   inputs.src-loadenv-master.owner = "xmonader";
-  inputs.src-loadenv-master.ref   = "refs/heads/master";
+  inputs.src-loadenv-master.ref   = "master";
   inputs.src-loadenv-master.repo  = "nim-loadenv";
   inputs.src-loadenv-master.type  = "github";
   
