@@ -33,11 +33,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1658031977,
-        "narHash": "sha256-vmg1Tr51EOqFPvkXcraISSCNrxUq7ASrlJbvtljvEjI=",
+        "lastModified": 1658201553,
+        "narHash": "sha256-ZfGAjJzj1mG08JQHlu8lgAfV5y0Z3VayoQ+Kju6hiZk=",
         "owner": "nim-nix-pkgs",
         "repo": "loadenv",
-        "rev": "d54750e33b7ab7f4d91ec6143ffcd0a3bf8b1972",
+        "rev": "5e3b1fd1adf83481cd4effb408f2fbad617f0a0f",
         "type": "github"
       },
       "original": {
